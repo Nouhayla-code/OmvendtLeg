@@ -3,11 +3,20 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css" />
+    <title>Guess The Number</title>
+    <link rel="stylesheet" href="app.css" />
   </head>
   <body>
-    <h1>Guess The Number</h1>
+    <div id="styling">
+      <h1>Guess The Number</h1>
+      <div id="guesses"></div>
+
+      <button id="start">Start</button>
+
+      <button id="low" class="hidden">Too low</button>
+      <button id="high" class="hidden">too high</button>
+      <button id="correct" class="hidden">correct</button>
+    </div>
     <script src="app.js"></script>
   </body>
 </html>

@@ -1,0 +1,25 @@
+body {
+  background-image: url("https://cst.brightspotcdn.com/dims4/default/b87bbd3/2147483647/strip/true/crop/6000x4000+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FIDcOqiBj-zcNaaoyd-rPcH5kKuw%3D%2F0x0%3A6000x4000%2F6000x4000%2Ffilters%3Afocal%283000x2000%3A3001x2001%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F23923709%2Fmerlin_107405784.jpg");
+}
+
+#styling {
+  background-color: rgba(219, 219, 192, 0.544);
+  width: 50%;
+  padding: 4%;
+  border-radius: 20px;
+}
+.hidden {
+  display: none;
+}
+
+.blue {
+  color: rgb(89, 89, 218);
+}
+
+.red {
+  color: rgb(238, 111, 111);
+}
+
+.green {
+  color: rgb(46, 160, 46);
+}
